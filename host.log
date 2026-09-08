@@ -1,5 +1,0 @@
-Connecting to https://omnigent.dreammaker.netease.com as 'GIH-L-6178.local' (a94c788932c04ca7a7e64fb833b7b429)
-Session logs: ~/.omnigent/logs/runner/
-This host's log: ~/.omnigent/logs/host/host-20260908-153951-807910.log
-CLI diagnostics: ~/.omnigent/logs/cli/cli-20260908-153950-50308-c68d02.log
-✓ Connected as 'GIH-L-6178.local' (a94c788932c04ca7a7e64fb833b7b429), 0 live runner(s). Listening for sessions — Ctrl-C to disconnect.
